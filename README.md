@@ -92,8 +92,6 @@ Building scalable, production-grade applications with NestJS, Next.js, and TypeS
 </tr>
 </table>
 
-<img width="100%" src="https://streak-stats.demolab.com?user=momin-hossain&background=0a0a0a&border=1e1e1e&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=444444&dates=444444&sideNums=cccccc&currStreakNum=ffffff" />
-
 </div>
 
 ---
