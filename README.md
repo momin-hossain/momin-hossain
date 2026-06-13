@@ -48,7 +48,7 @@
 ## 💻 Technical Proficiency
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nestjs,nextjs,react,nodejs,php,laravel,python,postgres,mongodb,mysql,firebase,git,docker,linux,redux,tailwind,express&perline=10&theme=dark" width="90%" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nestjs,nextjs,react,nodejs,php,laravel,python,postgres,mongodb,mysql,firebase,git,docker,linux,redux,tailwind,express&theme=dark" width="60%" />
 </p>
 
 ---
@@ -57,16 +57,8 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=momin-hossain&show_icons=true&count_private=true&bg_color=0a0a0a&title_color=ffffff&icon_color=00c2ff&text_color=888888&border_color=1e1e1e&card_width=500" />
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momin-hossain&layout=compact&langs_count=8&bg_color=0a0a0a&title_color=ffffff&text_color=888888&border_color=1e1e1e&card_width=500" />
-</td>
-</tr>
-</table>
+| <img src="https://github-readme-stats.vercel.app/api?username=momin-hossain&show_icons=true&count_private=true&bg_color=0a0a0a&title_color=ffffff&icon_color=00c2ff&text_color=888888&border_color=1e1e1e" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momin-hossain&layout=compact&langs_count=8&bg_color=0a0a0a&title_color=ffffff&text_color=888888&border_color=1e1e1e" width="400" /> |
+| --- | --- |
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=momin-hossain&bg_color=0a0a0a&color=ffffff&line=00c2ff&point=ffffff&area=true&hide_border=true" alt="activity graph" />
 
