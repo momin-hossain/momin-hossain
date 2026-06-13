@@ -16,7 +16,6 @@
 <a href="mailto:mominitmbstu@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ffffff" /></a>
 </div>
 
-
 ## 🎯 Core Expertise
 
 <table align="center">
@@ -42,7 +41,6 @@
 </tr>
 </table>
 
----
 
 ## 💻 Technical Proficiency
 
@@ -63,7 +61,6 @@
 
 </div>
 
----
 
 ## 📈 Weekly Development Breakdown
 
