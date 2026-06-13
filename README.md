@@ -10,11 +10,13 @@
 </p>
 
 <div>
-<a href="https://momin-hossain.netlify.app" target="_blank"><img src="https://img.shields.io/badge/portfolio?style=for-the-badge&logo=linkedin&logoColor=ffffff" /></a>
+<a href="https://momin-hossain.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=ffffff" /></a>
 <a href="https://linkedin.com/in/mominalways" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=ffffff" /></a>
 <a href="https://x.com/erdmomin" target="_blank"><img src="https://img.shields.io/badge/Twitter-0a0a0a?style=for-the-badge&logo=x&logoColor=ffffff" /></a>
 <a href="mailto:mominitmbstu@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ffffff" /></a>
 </div>
+
+---
 
 ## 🎯 Core Expertise
 
@@ -46,7 +48,7 @@
 ## 💻 Technical Proficiency
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nestjs,nextjs,react,nodejs,php,laravel,python,postgres,mongodb,mysql,firebase,git,docker,linux,redux,tailwind,express" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nestjs,nextjs,react,nodejs,php,laravel,python,postgres,mongodb,mysql,firebase,git,docker,linux,redux,tailwind,express&perline=10&theme=dark" width="90%" />
 </p>
 
 ---
@@ -69,6 +71,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=momin-hossain&bg_color=0a0a0a&color=ffffff&line=00c2ff&point=ffffff&area=true&hide_border=true" alt="activity graph" />
 
 </div>
+
 ---
 
 ## 📈 Weekly Development Breakdown
