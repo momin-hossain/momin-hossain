@@ -16,18 +16,6 @@
 <a href="mailto:mominitmbstu@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ffffff" /></a>
 </div>
 
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/momin-hossain/momin-hossain/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/momin-hossain/momin-hossain/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/momin-hossain/momin-hossain/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
 ## 🎯 Core Expertise
 
 <table align="center">
