@@ -69,27 +69,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=momin-hossain&bg_color=0a0a0a&color=ffffff&line=00c2ff&point=ffffff&area=true&hide_border=true" alt="activity graph" />
 
 </div>
-
----
-
-## 🚀 What I'm Focused On
-
-- Mastering advanced NestJS patterns and enterprise architecture
-- Deep-diving into Next.js 15+ performance optimization techniques
-- Building production-grade systems with focus on scalability
-- Contributing to high-impact open-source projects
-- Mentoring developers in full-stack best practices
-
----
-
-## 💡 Professional Values
-
-- **Code Quality**: Clean, maintainable, well-tested code
-- **Performance**: Optimized applications across the stack
-- **Collaboration**: Effective communication in team environments
-- **Continuous Growth**: Always learning emerging technologies
-- **Problem Solving**: Data-driven decisions and pragmatic solutions
-
 ---
 
 ## 📈 Weekly Development Breakdown
