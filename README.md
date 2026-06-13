@@ -2,26 +2,15 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Md. Momin Hossain
 
-**`Full-Stack Software Engineer`**  
+**`Software Engineer`**  
 *Specializing in Modern Web Architecture*
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;NestJS+%26+Next.js+Specialist;System+Design+Enthusiast;Building+Production-Grade+Apps" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=momin-hossain&label=Profile%20Views&color=0e75b6&style=flat" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=momin-hossain&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-  <a href="https://github.com/momin-hossain" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://momin-hossain.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
 <div>
+<a href="https://momin-hossain.netlify.app" target="_blank"><img src="https://img.shields.io/badge/portfolio?style=for-the-badge&logo=linkedin&logoColor=ffffff" /></a>
 <a href="https://linkedin.com/in/mominalways" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=ffffff" /></a>
 <a href="https://x.com/erdmomin" target="_blank"><img src="https://img.shields.io/badge/Twitter-0a0a0a?style=for-the-badge&logo=x&logoColor=ffffff" /></a>
 <a href="mailto:mominitmbstu@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ffffff" /></a>
