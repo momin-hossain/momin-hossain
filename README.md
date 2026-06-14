@@ -6,7 +6,7 @@
 *Specializing in Modern Web Architecture*
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;NestJS+%26+Next.js+Specialist;System+Design+Enthusiast;Building+Production-Grade+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=+Software+Engineer;NestJS+%26+Next.js+Specialist;System+Design+Enthusiast;Building+Production-Grade+Apps" alt="Typing SVG" />
 </p>
 
 <div>
