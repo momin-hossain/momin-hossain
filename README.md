@@ -60,17 +60,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=momin-hossain&bg_color=0a0a0a&color=ffffff&line=00c2ff&point=ffffff&area=true&hide_border=true" alt="activity graph" />
 
 </div>
-
-
-## 📈 Weekly Development Breakdown
-
-```text
-TypeScript    8 hrs 42 mins  █████████████████░░░░░░   68%
-JavaScript    3 hrs 20 mins  ███████░░░░░░░░░░░░░░░░   26%
-Python        1 hr  15 mins  ██░░░░░░░░░░░░░░░░░░░░░   10%
-NestJS        6 hrs 30 mins  █████████████░░░░░░░░░░   52%
-Next.js       5 hrs 45 mins  ████████████░░░░░░░░░░░   46%
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=momin-hossain&theme=github_dark" />
 
 <p align="center">
@@ -87,3 +76,14 @@ Next.js       5 hrs 45 mins  ████████████░░░░░
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=momin-hossain&theme=github_dark" />
 </p>
+
+## 📈 Weekly Development Breakdown
+
+```text
+TypeScript    8 hrs 42 mins  █████████████████░░░░░░   68%
+JavaScript    3 hrs 20 mins  ███████░░░░░░░░░░░░░░░░   26%
+Python        1 hr  15 mins  ██░░░░░░░░░░░░░░░░░░░░░   10%
+NestJS        6 hrs 30 mins  █████████████░░░░░░░░░░   52%
+Next.js       5 hrs 45 mins  ████████████░░░░░░░░░░░   46%
+
+
