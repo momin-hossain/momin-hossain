@@ -70,3 +70,20 @@ JavaScript    3 hrs 20 mins  ███████░░░░░░░░░░
 Python        1 hr  15 mins  ██░░░░░░░░░░░░░░░░░░░░░   10%
 NestJS        6 hrs 30 mins  █████████████░░░░░░░░░░   52%
 Next.js       5 hrs 45 mins  ████████████░░░░░░░░░░░   46%
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=momin-hossain&theme=github_dark" />
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=momin-hossain&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=momin-hossain&theme=github_dark" />
+</p>
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=momin-hossain&show_icons=true&count_private=true&bg_color=0a0a0a&title_color=ffffff&icon_color=00c2ff&text_color=888888&border_color=1e1e1e" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momin-hossain&layout=compact&bg_color=0a0a0a&title_color=ffffff&text_color=888888&border_color=1e1e1e" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=momin-hossain&theme=github_dark" />
+</p>
