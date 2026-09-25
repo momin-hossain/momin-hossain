@@ -13,8 +13,8 @@ Building scalable, production-grade web applications with NestJS and Next.js
 
 ## About
 
-- Backend development with NestJS and Node.js — APIs, microservices, and system design
-- Frontend development with Next.js and React — SSR/SSG, performance, and clean component architecture
+- Backend development with NestJS and Node.js - APIs, microservices, and system design
+- Frontend development with Next.js and React - SSR/SSG, performance, and clean component architecture
 - Database design across relational and NoSQL systems
 - Full-stack TypeScript with a focus on type safety and maintainable code
 
