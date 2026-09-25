@@ -21,7 +21,7 @@ Building scalable, production-grade web applications with NestJS and Next.js
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nestjs,nextjs,react,nodejs,express,php,laravel,python,postgres,mysql,mongodb,firebase,redux,tailwind,git,docker,linux&theme=dark&perline=10" width="400" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nestjs,nextjs,react,nodejs,express,php,laravel,python,postgres,mysql,mongodb,firebase,redux,tailwind,git,docker,linux&theme=dark" width="60%" />
 </p>
 
 ## Contact
