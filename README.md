@@ -1,8 +1,13 @@
+<div align="center">
+
 # Md. Momin Hossain
 
-Software Engineer focused on building scalable, production-grade web applications with NestJS and Next.js.
+**Software Engineer**
+Building scalable, production-grade web applications with NestJS and Next.js
 
 [Portfolio](https://momin-hossain.netlify.app) · [LinkedIn](https://linkedin.com/in/mominalways) · [X](https://x.com/erdmomin) · [Email](mailto:mominitmbstu@gmail.com)
+
+</div>
 
 ---
 
@@ -15,10 +20,10 @@ Software Engineer focused on building scalable, production-grade web application
 
 ## Tech Stack
 
-**Languages:** TypeScript, JavaScript, PHP, Python
-**Backend:** NestJS, Node.js, Express, Laravel
-**Frontend:** Next.js, React, Redux, Tailwind CSS
-**Databases:** PostgreSQL, MySQL, MongoDB, Firebase
+**Languages:** TypeScript, JavaScript, PHP, Python  
+**Backend:** NestJS, Node.js, Express, Laravel  
+**Frontend:** Next.js, React, Redux, Tailwind CSS  
+**Databases:** PostgreSQL, MySQL, MongoDB, Firebase  
 **Tools:** Git, Docker, Linux
 
 ## Contact
