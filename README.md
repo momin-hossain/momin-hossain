@@ -20,11 +20,9 @@ Building scalable, production-grade web applications with NestJS and Next.js
 
 ## Tech Stack
 
-**Languages:** TypeScript, JavaScript, PHP, Python  
-**Backend:** NestJS, Node.js, Express, Laravel  
-**Frontend:** Next.js, React, Redux, Tailwind CSS  
-**Databases:** PostgreSQL, MySQL, MongoDB, Firebase  
-**Tools:** Git, Docker, Linux
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nestjs,nextjs,react,nodejs,express,php,laravel,python,postgres,mysql,mongodb,firebase,redux,tailwind,git,docker,linux&theme=dark" />
+</p>
 
 ## Contact
 
